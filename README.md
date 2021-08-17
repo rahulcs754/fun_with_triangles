@@ -1,5 +1,5 @@
 # fun_with_triangles
-Created with CodeSandbox
+In this app , You will know about triangles thing and calculate Hypotenuse, is triangle, Area of Triangle.
 
 # Tech Stack 
 1. React
